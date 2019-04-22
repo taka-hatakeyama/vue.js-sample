@@ -1,2 +1,2 @@
-# vue.js-smple
+# vue.js-sample
 vue.js sample
